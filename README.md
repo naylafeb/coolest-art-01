@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/coolest-art-01/naylafeb/coolest-art-01/rank.svg)](https://make.fun/bounty/coolest-art-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=coolest-art-01)
 [![reward](https://make.fun/badge/coolest-art-01/naylafeb/coolest-art-01/reward.svg)](https://make.fun/bounty/coolest-art-01?utm_source=github&utm_medium=readme&utm_campaign=coolest-art-01)
 
-A colossal hourglass pours glowing stars like sand over a sleeping city, while a lone figure watches from a rooftop — the coolest art I could make.
+A tiny engineer turns a giant brass key to wind up a colossal clockwork sun rising over a dark sea — the coolest art I could make.
 
 ## Run it
 
